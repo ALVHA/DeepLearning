@@ -1,4 +1,6 @@
 # DeepLearning
-* Updated in 06-28-2019
-* Updated list
-* Repository Created in 06-28
+* Updated in 07-30-2019
+# Updated list
+## CNN Practice (07-30-2019)
+### What is CNN, CIFAR
+* CNN MaxPooling, Flatten, MNIST Data Set
