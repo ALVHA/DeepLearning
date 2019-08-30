@@ -1,6 +1,11 @@
 # DeepLearning
-* Updated in 07-30-2019
+* Updated in 08-14-2019
 # Updated list
+
+### Project (08-14 ~ 08-28)
+
+### 자연어 처리 실습 (08-01-2019)
+* kkma, KoNLP 실습하기
 
 ### Naive Bayes Classifier, WordCloud (07-31-2019)
 * Naive Bayes, Simple Korean NLP Practice
